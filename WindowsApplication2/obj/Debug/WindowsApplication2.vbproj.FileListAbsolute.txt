@@ -1,0 +1,44 @@
+C:\Users\user\Desktop\ALİ OKUL\PROJELER\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\user\Desktop\ALİ OKUL\PROJELER\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\user\Desktop\ALİ OKUL\PROJELER\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\user\Desktop\ALİ OKUL\PROJELER\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\user\Desktop\ALİ OKUL\PROJELER\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ALİ OKUL\PROJELER\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\user\Desktop\ALİ OKUL\PROJELER\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form2.resources
+C:\Users\user\Desktop\ALİ OKUL\PROJELER\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\user\Desktop\ALİ OKUL\PROJELER\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\ALİ OKUL\PROJELER\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\user\Desktop\ALİ OKUL\PROJELER\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\user\Desktop\ALİ OKUL\PROJELER\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\user\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\user\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\user\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\user\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Samet\Desktop\Yeni klasör\GÖRSEL PROGRAMLAMA\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Samet\Desktop\Yeni klasör\GÖRSEL PROGRAMLAMA\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Samet\Desktop\Yeni klasör\GÖRSEL PROGRAMLAMA\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Samet\Desktop\Yeni klasör\GÖRSEL PROGRAMLAMA\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Samet\Desktop\GÖRSEL PROGRAMLAMA\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Samet\Desktop\GÖRSEL PROGRAMLAMA\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Samet\Desktop\GÖRSEL PROGRAMLAMA\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Samet\Desktop\GÖRSEL PROGRAMLAMA\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Samet\Desktop\GÖRSEL PROGRAMLAMA\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Samet\Desktop\GÖRSEL PROGRAMLAMA\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Samet\Desktop\GÖRSEL PROGRAMLAMA\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Samet\Desktop\GÖRSEL PROGRAMLAMA\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\Samet\Desktop\GÖRSEL PROGRAMLAMA\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Samet\Desktop\GÖRSEL PROGRAMLAMA\WindowsApplication2\obj\Debug\WindowsApplication2.Form2.resources
+C:\Users\Samet\Desktop\GÖRSEL PROGRAMLAMA\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Samet\Desktop\GÖRSEL PROGRAMLAMA\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Samet\Desktop\proje\GÖRSEL PROGRAMLAMA proje\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Samet\Desktop\proje\GÖRSEL PROGRAMLAMA proje\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Samet\Desktop\proje\GÖRSEL PROGRAMLAMA proje\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Samet\Desktop\proje\GÖRSEL PROGRAMLAMA proje\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Samet\Desktop\proje\GÖRSEL PROGRAMLAMA proje\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Samet\Desktop\proje\GÖRSEL PROGRAMLAMA proje\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Samet\Desktop\proje\GÖRSEL PROGRAMLAMA proje\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Samet\Desktop\proje\GÖRSEL PROGRAMLAMA proje\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\Samet\Desktop\proje\GÖRSEL PROGRAMLAMA proje\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Samet\Desktop\proje\GÖRSEL PROGRAMLAMA proje\WindowsApplication2\obj\Debug\WindowsApplication2.Form2.resources
+C:\Users\Samet\Desktop\proje\GÖRSEL PROGRAMLAMA proje\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Samet\Desktop\proje\GÖRSEL PROGRAMLAMA proje\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
